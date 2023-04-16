@@ -21,6 +21,18 @@ const inputFieldEl = document.getElementById('input-field')
 const addButtonEl = document.getElementById('add-button')
 const shoppingListEl = document.getElementById('shopping-list')
 
+inputFieldEl.addEventListener('keyup', function (e) {
+	let inputValue = inputFieldEl.value
+
+	if (e.key == 'Enter') {
+		if (inputValue.trim() !== '') {
+			push(shoppingListInDB, inputValue)
+		}
+		clearInput()
+		console.log('Enter key pressed')
+	}
+})
+
 addButtonEl.addEventListener('click', function () {
 	let inputValue = inputFieldEl.value
 
