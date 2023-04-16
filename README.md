@@ -44,4 +44,7 @@ You can view a live demo of the shopping cart app [here](https://cart-app-caobee
 
 ## Other
 Random Color Palette: https://coolors.co/
+    
 Cat names are peach(white cat) and goma
+    
+Favicon: https://favicon.io/
