@@ -35,4 +35,4 @@ You can view a live demo of the shopping cart app [here](https://cart-app-caobee
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" width="36" height="36" alt="Netlify" /></a>
 
 ## Other
-Cat names are peach and goma
+Cat names are peach(white cat) and goma
