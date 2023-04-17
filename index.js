@@ -29,7 +29,6 @@ inputFieldEl.addEventListener('keyup', function (e) {
 			push(shoppingListInDB, inputValue)
 		}
 		clearInput()
-		console.log('Enter key pressed')
 	}
 })
 
